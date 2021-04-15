@@ -11,12 +11,6 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
-
-⭕️<b>Creater :</b> @VKPROJECTS   
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+    ABOUT_MSG = """എന്നെ എന്റെ ഓണർക്ക് മാത്രെമേ കൺട്രോൾ ചെയ്യാൻ പറ്റുകയൊള്ളു...😜
 
 """
