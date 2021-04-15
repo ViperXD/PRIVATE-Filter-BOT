@@ -213,8 +213,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📣Channel", url="https://t.me/VKPROJECTS"),
-                    InlineKeyboardButton("Group💬", url="https://t.me/VKP_BOTS")
+                    InlineKeyboardButton("📣Channel", url="https://t.me/joinchat/LN_fR9zIBhJjNmI9"),
+                    InlineKeyboardButton("Group💬", url="https://t.me/joinchat/CSA1Ec3NywI3ZGQ1")
                 ]
             ]
         ),
