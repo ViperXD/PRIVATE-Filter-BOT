@@ -2,10 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-
-See <i>/help</i> for commands and more details.</b>
+<b>😙 ഉണ്ണി ഞാൻ HN MEDIA യുടെ എല്ലാം എല്ലാം ആണ്.....😎 എന്നെ നിന്റെ ഗ്രൂപ്പിലേക്ക് കൊണ്ട് പോവാൻ കഴിയില്ല കരണം ഞാൻ 😏 HN MEDIA ക്ക് മാത്രം സ്വന്തം..!!!</b>
 """
 
 
@@ -48,13 +45,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @VKPROJECTS</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @VKPROJECTS   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
