@@ -232,7 +232,9 @@ async def start(client, message):
             pass
 
 
-@trojanz.on_message(filters.command('help') & filters.private)
+admins = [1414146649, 1225830829, 45975354]
+
+@trojanz.on_message(filters.command('help') & filters.private & filters.users(Admins))
 async def help(client, message):
     await message.reply_text(
         text=Script.HELP_MSG,
